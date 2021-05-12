@@ -150,25 +150,6 @@ Drawbacks:
 [Source link: Javascript](https://www.freecodecamp.org/news/the-advantages-and-disadvantages-of-javascript/)
 
 
-
- 
- ---
- ## Q7: Identify TWO ethical issues from the areas below and discuss the extent to which an IT professional is ethically responsible in terms of the issue.
-
-List of topics containing ethical issues:
-  - access to a user’s personal information (medical, family, financial, personal attributes such as sexuality, religion, or beliefs)
-  - intellectual property, copyright, and acknowledgement.
-  - criminal acts such as theft, fraud, trafficking and distribution of prohibited substances, terrorism
-  - GPS tracking data and other types of metadata, MAC addresses, hardware fingerprints
-  - freedom of thought, conscience, speech and the media
-  - aggressive sales and marketing practices designed to mislead and deceive consumers
-  - trading of shares on the stock exchange OR crypto-currencies
-
-For each ethical issue identify a source of legal information relating to the ethical issue and discuss whether the law is helpful in assisting a developer to act in an ethical way.
-
-Conduct research into a case study of ONE of the ethical issues you have chosen discuss how an ethical IT professional should respond to the case study and how they might mitigate or prevent ethical breaches.❓
- ### ❇ Ans:
-
  ## Q8:Explain control flow, using an example from the Ruby programming language❓
 ### ❇ Ans:
 
