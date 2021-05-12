@@ -165,3 +165,5 @@ Ruby makes use of conditionals and loops to manage control flow. Conditionals ai
  
 Type coercion is a programming technique for converting one object to another one. This is commonly used when a data type has to be changed in order to perform a calculation or manipulation. For example, if the price of various things is saved as a string on Amazon, we must first convert the price to a number before performing any mathematical operations on it. To convert a string to a number in Ruby, use 'to i' or use 'to s' to convert numbers to strings. Other data form conversion methods in Ruby include 'to f,' 'to a,' and 'to h.'
  [source](https://en.wikipedia.org/wiki/Type_conversion)
+ 
+ 
