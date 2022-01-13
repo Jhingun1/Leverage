@@ -124,8 +124,11 @@ Nivi: I think at this point, people are not only commanding the army of robots w
 
 People are doing the same things to build businesses now. There’s the army of robots within servers and then there’s also an army of actual robots and people that are being manipulated through software.
 
+# Example: From Laborer to Entrepreneur
 
-# Naval: The tweetstorm is very abstract. It’s deliberately meant to be broadly applicable to all kinds of different domains and disciplines and time periods and places. But sometimes it’s hard to work without a concrete example. So let’s go concrete for a minute.
+From low to high specific knowledge, accountability and leverage
+
+Naval: The tweetstorm is very abstract. It’s deliberately meant to be broadly applicable to all kinds of different domains and disciplines and time periods and places. But sometimes it’s hard to work without a concrete example. So let’s go concrete for a minute.
 
 
 Look at the real estate business. You could start at the bottom, let’s say you’re a day laborer. You come in, you fix people’s houses. Someone orders you around, tells you, “Break that piece of rock. Sand that piece of wood. Put that thing over there.”
