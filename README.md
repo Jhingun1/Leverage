@@ -1,4 +1,4 @@
-#Labor and Capital Are Old Leverage
+# Labor and Capital Are Old Leverage
 
 Everyone is fighting over labor and capital
 
