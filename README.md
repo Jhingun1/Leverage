@@ -1,4 +1,5 @@
-Labor and Capital Are Old Leverage
+#Labor and Capital Are Old Leverage
+
 Everyone is fighting over labor and capital
 
 Our brains aren’t evolved to comprehend new forms of leverage
@@ -57,7 +58,8 @@ If you have specific knowledge in a domain and if you’re accountable and you h
 
 Capital also is fairly well understood. I think a lot of the knocks against capitalism come because of the accumulation of capital.
 
-Product and Media Are New Leverage
+#Product and Media Are New Leverage
+
 Create software and media that work for you while you sleep
 
 Product and media are the new leverage
@@ -122,7 +124,9 @@ Nivi: I think at this point, people are not only commanding the army of robots w
 
 People are doing the same things to build businesses now. There’s the army of robots within servers and then there’s also an army of actual robots and people that are being manipulated through software.
 
-Naval: The tweetstorm is very abstract. It’s deliberately meant to be broadly applicable to all kinds of different domains and disciplines and time periods and places. But sometimes it’s hard to work without a concrete example. So let’s go concrete for a minute.
+
+#Naval: The tweetstorm is very abstract. It’s deliberately meant to be broadly applicable to all kinds of different domains and disciplines and time periods and places. But sometimes it’s hard to work without a concrete example. So let’s go concrete for a minute.
+
 
 Look at the real estate business. You could start at the bottom, let’s say you’re a day laborer. You come in, you fix people’s houses. Someone orders you around, tells you, “Break that piece of rock. Sand that piece of wood. Put that thing over there.”
 
